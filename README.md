@@ -1,2 +1,2 @@
 # CollectionProject
-Using Collection Framework
+Using Collection Framework Stand Alone Application
